@@ -1,6 +1,10 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "types.h": "c"
+        "types.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "server.h": "c",
+        "unistd.h": "c"
     }
 }
