@@ -30,7 +30,7 @@
             "args": [
                 "-g",  // Include debugging information
                 "test.c",
-                "Server.c",
+                "Nodes/Server.c",
                 "-o",
                 "test"
             ],

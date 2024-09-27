@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Server.h"
+#include "Nodes/Server.h"
 #include <unistd.h>
 #include <string.h>
 
